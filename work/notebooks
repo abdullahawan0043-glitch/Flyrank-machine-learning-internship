@@ -23,14 +23,14 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/abdullahawan0043-glitch/Flyrank-machine-learning-internship/blob/main/work/notebooks/w02_ml_task_framing.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/abdullahawan0043-glitch/Flyrank-machine-learning-internship/blob/main/work/notebooks\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "PdZLzD1lK5Ai"
+        "id": "ZaFwkeuuP0ev"
       },
       "outputs": [],
       "source": []
