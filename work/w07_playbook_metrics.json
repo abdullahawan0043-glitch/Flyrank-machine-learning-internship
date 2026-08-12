@@ -1,0 +1,13 @@
+{
+  "n_pages_in_queue": 10834,
+  "review_capacity_per_week": 50,
+  "estimated_precision_at_review_capacity": 0.54,
+  "action_distribution": {
+    "review_for_refresh": 3991,
+    "review_snippet_title": 2983,
+    "monitor_only": 2022,
+    "no_action": 1835,
+    "refresh_priority": 3
+  },
+  "random_seed": 42
+}
